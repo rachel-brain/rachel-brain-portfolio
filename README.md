@@ -31,10 +31,10 @@ Click on the images to be directed to examples of my work.
 
 ### Title: Wizard Wipeout! group project
 * Alternative title: super-duper-bassoon
-* The URL of the deployed application:  https://rachel-brain.github.io/creating-art/ - CHANGE
-* The URL of the GitHub repository:     https://github.com/rachel-brain/creating-art - CHANGE
+* The URL of the deployed application:  https://https//dry-beach-54923.herokuapp.com/
+* The URL of the GitHub repository:     https://github.com/rachel-brain/super-duper-bassoon
 * Screenshot:
-![Wizard Wipeout! website login/register page.](./assets/images/arty-pants-project-2021.07.JPG) - CHANGE
+![Wizard Wipeout! website login/register page.](./assets/images/wizard-wipeout-project-2021.09.JPG)
 
 ### Title: Weather Dashboard
 * Alternative title: city-weather-dashboard
