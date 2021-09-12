@@ -19,7 +19,7 @@ My motivation for undertaking this project was to update my portfolio with recen
 Open the (index.html) page in your prefered browser to see the finished webpage which is responsive so can be viewed on a number of different screen sizes.
 
 ## Usage
-Click on the images to be directed to examples of my work.
+Click on the images to be directed to examples of my deployed work & on the github links to be transferred to my repositories.
 
 ## Projects featured
 ### Title: Arty Pants group project
@@ -57,15 +57,15 @@ Click on the images to be directed to examples of my work.
 * Screenshot:
 ![The user clicks on the hourly slots to save their tasks on this handy color-coded Workday Scheduler.](./assets/images/workday-scheduler-2021.06.JPG)
 
-### Title: 
-* Alternative title: 
-* The URL of the deployed application:  
-* The URL of the GitHub repository:     
+### Title: Note Taker App
+* Alternative title: handy-note-taker
+* The URL of the deployed application:  https://evening-lowlands-85052.herokuapp.com/
+* The URL of the GitHub repository:     https://github.com/rachel-brain/handy-note-taker
 * Screenshot:
-![The user clicks on the hourly slots to save their tasks on this handy color-coded Workday Scheduler.](./assets/images/workday-scheduler-2021.06.JPG) - CHANGE
+![The Note Taker application opens with a "get started" button on the home page.](./assets/images/note-taker-app-2021.08.JPG)
 
 ## Screenshot - UPDATE!
-![Rachel Brain's portfolio webpage on a desktop monitor is shown.](./assets/images/screenshot-of-updated-deployed-website.JPG). - CHANGE
+![Rachel Brain's portfolio webpage on a small screen is shown.](./assets/images/screenshot-of-portfolio-website-2021.09.JPG).
 
 ## License
 The MIT License has been applied which can be seen in the source file at (LICENSE.txt).
