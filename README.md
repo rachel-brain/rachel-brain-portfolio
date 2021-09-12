@@ -29,6 +29,13 @@ Click on the images to be directed to examples of my work.
 * Screenshot:
 ![Arty Pants website home page for search inputs.](./assets/images/arty-pants-project-2021.07.JPG)
 
+### Title: Wizard Wipeout! group project
+* Alternative title: super-duper-bassoon
+* The URL of the deployed application:  https://rachel-brain.github.io/creating-art/ - CHANGE
+* The URL of the GitHub repository:     https://github.com/rachel-brain/creating-art - CHANGE
+* Screenshot:
+![Wizard Wipeout! website login/register page.](./assets/images/arty-pants-project-2021.07.JPG) - CHANGE
+
 ### Title: Weather Dashboard
 * Alternative title: city-weather-dashboard
 * The URL of the deployed application:  https://rachel-brain.github.io/city-weather-dashboard/
@@ -50,9 +57,15 @@ Click on the images to be directed to examples of my work.
 * Screenshot:
 ![The user clicks on the hourly slots to save their tasks on this handy color-coded Workday Scheduler.](./assets/images/workday-scheduler-2021.06.JPG)
 
+### Title: 
+* Alternative title: 
+* The URL of the deployed application:  
+* The URL of the GitHub repository:     
+* Screenshot:
+![The user clicks on the hourly slots to save their tasks on this handy color-coded Workday Scheduler.](./assets/images/workday-scheduler-2021.06.JPG) - CHANGE
 
-## Screenshot
-![Rachel Brain's portfolio webpage on a desktop monitor is shown.](./assets/images/screenshot-of-updated-deployed-website.JPG).
+## Screenshot - UPDATE!
+![Rachel Brain's portfolio webpage on a desktop monitor is shown.](./assets/images/screenshot-of-updated-deployed-website.JPG). - CHANGE
 
 ## License
 The MIT License has been applied which can be seen in the source file at (LICENSE.txt).
@@ -61,5 +74,5 @@ The MIT License has been applied which can be seen in the source file at (LICENS
 The main test run was to look at the site in multiple screen sizes, using the toggle device bar in the Dev Tools in the browser.  Despite using Bootstrap v5.0 this time, at the time of publishing, the site was still not perfect in all screen sizes & further debugging is required.  In particular, the navbar was not always visible and the images were not always showing in full.
 
 ## URLs
-* The URL of the deployed application:  https://rachel-brain.github.io/my-new-improved-portfolio/
-* The URL of the GitHub repository:     https://github.com/rachel-brain/my-new-improved-portfolio
+* The URL of the deployed application:  https://rachel-brain.github.io/rachel-brain-portfolio/
+* The URL of the GitHub repository:     https://github.com/rachel-brain/rachel-brain-portfolio
