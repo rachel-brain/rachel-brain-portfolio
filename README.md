@@ -1,5 +1,4 @@
 # my-new-updated-portfolio
-BOOTCAMP - Week 16 assignment
 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -13,10 +12,10 @@ SO THAT I can present the best examples of my work so a potential employer can a
 ```
 
 ## Description
-My motivation for undertaking this project was to update my portfolio with recent web development work.  It is to use as an adjunct to my resume, giving me the ability to present the best examples of my coding work.  It was also a good chance to refactor my code, where possible, & to give it a better appearance in multiple screen sizes.
+My motivation for undertaking this project was to update my portfolio with recent web development work.  It is to use as an adjunct to my resume, giving me the ability to present the best examples of my coding work.  It was also a good chance to refactor my code & to give it a better appearance in multiple screen sizes.
 
 ## Installation
-Open the (index.html) page in your prefered browser to see the finished webpage which is responsive so can be viewed on a number of different screen sizes.
+Open the (index.html) page in your prefered browser to see the finished webpage which is responsive so can be viewed on a number of different screen sizes.  Or, open the URL of the deployed application at: https://rachel-brain.github.io/rachel-brain-portfolio/ 
 
 ## Usage
 Click on the images to be directed to examples of my deployed work & on the github links to be transferred to my repositories.
@@ -24,55 +23,29 @@ Click on the images to be directed to examples of my deployed work & on the gith
 ## Projects featured
 ### Title: Arty Pants group project
 * Alternative title: creating-art
-* The URL of the deployed application:  https://rachel-brain.github.io/creating-art/
-* The URL of the GitHub repository:     https://github.com/rachel-brain/creating-art
-* Screenshot:
-![Arty Pants website home page for search inputs.](./assets/images/arty-pants-project-2021.07.JPG)
+* Team members: Afsha Amber, Rachel Brain, Jesse De Jong, Chandler Liang
 
 ### Title: Wizard Wipeout! group project
 * Alternative title: super-duper-bassoon
-* The URL of the deployed application:  https://https//dry-beach-54923.herokuapp.com/
-* The URL of the GitHub repository:     https://github.com/rachel-brain/super-duper-bassoon
-* Screenshot:
-![Wizard Wipeout! website login/register page.](./assets/images/wizard-wipeout-project-2021.09.JPG)
+* Team members: Mustafa Abdelrahman, Rachel Brain, Suva Pokharel & David Szamek
 
 ### Title: Weather Dashboard
 * Alternative title: city-weather-dashboard
-* The URL of the deployed application:  https://rachel-brain.github.io/city-weather-dashboard/
-* The URL of the GitHub repository:     https://github.com/rachel-brain/city-weather-dashboard
-* Screenshot:
-![The Weather Dashboard allows weather searches by city location with a 5-day forecast.](./assets/images/weather-dashboard-2021.07.JPG)
 
 ### Title: Gotta Keep 'em Generated
 * Alternative title: generate-passwords
-* The URL of the deployed application:  https://rachel-brain.github.io/generate-passwords/
-* The URL of the GitHub repository:     https://github.com/rachel-brain/generate-passwords
-* Screenshot:
-![The Password Generator application displays a green button to "Generate Password".](./assets/images/gotta-keep-em-generated-2021.06.JPG)
 
 ### Title: Workday Scheduler
 * Alternative title: handy-workday-scheduler
-* The URL of the deployed application:  https://rachel-brain.github.io/handy-workday-scheduler/
-* The URL of the GitHub repository:     https://github.com/rachel-brain/handy-workday-scheduler
-* Screenshot:
-![The user clicks on the hourly slots to save their tasks on this handy color-coded Workday Scheduler.](./assets/images/workday-scheduler-2021.06.JPG)
 
 ### Title: Note Taker App
 * Alternative title: handy-note-taker
-* The URL of the deployed application:  https://evening-lowlands-85052.herokuapp.com/
-* The URL of the GitHub repository:     https://github.com/rachel-brain/handy-note-taker
-* Screenshot:
-![The Note Taker application opens with a "get started" button on the home page.](./assets/images/note-taker-app-2021.08.JPG)
 
-## Screenshot - UPDATE!
+## Screenshot
 ![Rachel Brain's portfolio webpage on a small screen is shown.](./assets/images/screenshot-of-portfolio-website-2021.09.JPG).
-
-## License
-The MIT License has been applied which can be seen in the source file at (LICENSE.txt).
-
-## Tests
-The main test run was to look at the site in multiple screen sizes, using the toggle device bar in the Dev Tools in the browser.  Despite using Bootstrap v5.0 this time, at the time of publishing, the site was still not perfect in all screen sizes & further debugging is required.  In particular, the navbar was not always visible and the images were not always showing in full.
 
 ## URLs
 * The URL of the deployed application:  https://rachel-brain.github.io/rachel-brain-portfolio/
 * The URL of the GitHub repository:     https://github.com/rachel-brain/rachel-brain-portfolio
+
+* Links to all URLs for the featured projects' deployed websites and GitHub repositories are included in the portfolio.

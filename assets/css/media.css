@@ -1,7 +1,6 @@
 @media (min-width: 576px) {
     .photo-image img {
         width: 500px;
-        margin-top: 20px;
     }
 }
 
@@ -10,12 +9,16 @@
         width: 750px;
         margin: 5px 0;
     }
+
+    .example img {
+        width: 55%;
+    }
 }
 
 @media (min-width: 992px) {
     .photo-image img {
-        width: 600px;
-        margin-top: 20px 0 0 5px;
+        width: 550px;
+        padding-top: 200px;
     }
 
     .container {
@@ -58,17 +61,13 @@
     }
 
     .blurb {
-        padding-top: 175px;
+        padding-top: 10px;
         grid-area: 1 / 1 / 2 / 2;
     }
 
     .photo-image {
-        padding-top: 175px;
+        padding-top: 10px;
         grid-area: 1 / 2 / 2 / 3;
-    }
-
-    .photo-image img {
-        margin-top: 75px;
     }
 
     .btn {
@@ -97,11 +96,21 @@
         max-width: 992px;
         margin: 0 auto;
     }
+
+    .photo-image img {
+        width: 95%;
+        padding-top: 100px;
+    }
 }
 
 @media (min-width: 1400px) {
     .container {
         max-width: 1200px;
         margin: 0 auto;
+    }
+
+    .photo-image img {
+        width: 100%;
+        padding-top: 50px;
     }
 }
