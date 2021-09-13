@@ -49,3 +49,9 @@ Click on the images to be directed to examples of my deployed work & on the gith
 * The URL of the GitHub repository:     https://github.com/rachel-brain/rachel-brain-portfolio
 
 * Links to all URLs for the featured projects' deployed websites and GitHub repositories are included in the portfolio.
+
+## Contact Me
+* Mobile: +61 432 297 755
+* Email: rachel.brain@internode.on.net
+* LinkedIn: https://www.linkedin.com/in/rachel-brain-89570930
+* GitHub: https://github.com/rachel-brain
